@@ -1,4 +1,7 @@
-### Hi there 👋
+### Anastasia Andreeva 👋
+
+A Frontend Developer from Russia.
+
 
 <!--
 **acherr-stuff/acherr-stuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
